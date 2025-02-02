@@ -1,2 +1,2 @@
 # 重新修改了命名空间
-apache/rocketmq:5.3.1
+apacherocketmq/rocketmq-dashboard:latest
