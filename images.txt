@@ -1,2 +1,2 @@
 # 重新修改了命名空间
-nacos/nacos-server:v2.5.0
+apache/apisix:3.6.0-centos
