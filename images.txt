@@ -1,2 +1,1 @@
-# 重新修改了命名空间
-apache/apisix:3.6.0-centos
+sebp/elk:7.10.2
