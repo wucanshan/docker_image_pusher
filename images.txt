@@ -1,2 +1,2 @@
 # 重新修改了命名空间
-apacherocketmq/rocketmq-dashboard:latest
+nacos/nacos-server:v2.5.0
