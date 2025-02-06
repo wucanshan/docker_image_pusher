@@ -1,1 +1,1 @@
-sebp/elk:7.10.2
+apache/apisix-dashboard:latest
