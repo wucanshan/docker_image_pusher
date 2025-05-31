@@ -1,1 +1,1 @@
-redis/redisinsight:latest
+hashicorp/vault:1.19.5
