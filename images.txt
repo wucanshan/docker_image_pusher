@@ -1,1 +1,1 @@
-eclipse-temurin:17-jdk-alpine
+eclipse-temurin:17-jdk-alpine-3.21
