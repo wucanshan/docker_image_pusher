@@ -1,1 +1,1 @@
-eclipse-temurin:17-jdk-alpine-3.21
+bitnami/prometheus:3.5.0
