@@ -1,2 +1,1 @@
-mysql:8.0.40 
---platform=linux/arm64/v8
+mysql:8.0.38  --platform=linux/arm64
