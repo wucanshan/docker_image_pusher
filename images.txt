@@ -1,1 +1,1 @@
-postgres:16.11
+mysql:8.0.39 --platform=linux/arm64
