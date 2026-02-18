@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 redis:7.2.11-alpine
+apache/apisix-dashboard:3.6.0
