@@ -1,1 +1,1 @@
-apache/apisix:3.14.1-ubuntu
+bitnami/etcd:3.5.12
