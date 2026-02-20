@@ -1,1 +1,1 @@
-apache/apisix:3.14.1-debian
+grafana/grafana:12.3.3
