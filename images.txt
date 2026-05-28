@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+apache/dubbo-admin:0.6.0
