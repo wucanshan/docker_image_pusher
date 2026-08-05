@@ -1,1 +1,1 @@
-elastic/filebeat:7.10.2
+redis:8.8.1-alpine
